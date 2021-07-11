@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Stargazer",
+  "name": "Beaultiful user interface for Nasa's Space picture of the day api",
   "icons": [
     {
       "src": "favicon.ico",
