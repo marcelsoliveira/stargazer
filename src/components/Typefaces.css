@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'muli-extra-bold-italic';
+    src: url('../font/Muli-ExtraBoldItalic.ttf');
+}
+@font-face {
+    font-family: 'muli-italic';
+    src: url('../font/Muli-Italic.ttf');
+}
+@font-face {
+    font-family: 'muli-regular';
+    src: url('../font/Muli-Regular.ttf');
+}
+@font-face {
+    font-family: 'muli-bold';
+    src: url('../font/Muli-Bold.ttf');
+}

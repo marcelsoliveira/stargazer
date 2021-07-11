@@ -1,0 +1,8 @@
+.logo {
+    position: absolute;
+    width: 190pt;
+    top: 4pt;
+    left: 40pt;
+    z-index: 4;
+    opacity: 0.8;
+}
