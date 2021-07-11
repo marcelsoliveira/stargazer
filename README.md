@@ -1,7 +1,7 @@
 ![logo](https://github.com/marcelsoliveira/stargazer/blob/master/docs/stargazer_logo.png "logo")
 # Stargazer
 
-Stargazer is a React App that present you on a beautiful and simple way Nasa's Space Picture of the day. It was built to show appreciation to Nasa's outstanding work and to make Nasa's amazing initiative available to more people.
+Stargazer is a React App that present you in a beautiful and simple way Nasa's Space Picture of the day. It was built to show appreciation to Nasa's outstanding work and to make Nasa's amazing initiative available to more people.
 
 With Stargazer you can:
 
@@ -14,7 +14,7 @@ You can see the app in action here:
 
 ## Dependencies
 
-Stargezer is dependent on Nodejs and Sass. Make sure you have it installed in your computer before trying to build or run the app.
+Stargezer is dependent on Nodejs and Sass. Make sure you have it installed on your computer before trying to build or run the app.
 
 ## Running the app
 
